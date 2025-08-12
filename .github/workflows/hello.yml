@@ -8,4 +8,4 @@ jobs:                             # ジョブの定義
       - run: echo "Hello, world"
       # usesは、既存のアクションを呼び出して実行するために使用
       # 既存のアクションとは、GitHub Marketplaceや他のリポジトリで公開されているアクションのこと
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
