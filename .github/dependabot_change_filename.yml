@@ -1,6 +1,8 @@
 # 自動で毎日動き続けていたのでコメントアウト
-version: 2
-updates:
+# まだダメなので、下2行含め全てコメントアウトし、dependabot.ymlをdependabot_change_filename.ymlにリネーム
+# version: 2
+# updates:
+
   # - package-ecosystem: github-actions # パッケージエコシステム
   #   directory: /                      # パッケージマニフェストの配置先ディレクトリ
   #   schedule:                         # バージョンアップスケジュール
